@@ -1,0 +1,6 @@
+com\application\myproject\repository\ClientesRepository.class
+com\application\myproject\models\Clientes.class
+com\application\myproject\MyprojectApplication.class
+com\application\myproject\services\Service.class
+com\application\myproject\controllers\Controller.class
+com\application\myproject\config\ClientesConfig.class
